@@ -40,7 +40,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "imagemin-jpeg-recompress": "^6.0.0",
     "imagemin-pngquant": "^8.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lottie-web": "^5.5.10",
     "moment": "^2.24.0",
     "node-sass": "^4.12.0",
